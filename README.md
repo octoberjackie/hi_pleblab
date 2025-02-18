@@ -63,4 +63,7 @@ If you decide to unlink your GitHub account from Lightning Bounties, please foll
 5. **Revoke Access**: Click on **Lightning Bounties** and then select the **Revoke Access** button.
 
 After completing these steps, your GitHub account will be successfully unlinked from Lightning Bounties, and we will no longer have access to your GitHub information.
+
+
+delete later
 test 2-18-25
