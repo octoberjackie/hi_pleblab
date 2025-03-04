@@ -31,7 +31,7 @@ When you link your GitHub account to Lightning Bounties, you will be granting us
   - We can only access information that is publicly available.
   - Any data that is private or restricted is completely off-limits to us.
 
-## Comparison with Other GitHub Apps/Services
+## Comparison with Other GitHub Apps/Services 
 
 Many GitHub applications request broader permissions than we do. Here's a quick comparison:
 
